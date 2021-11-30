@@ -1,2 +1,2 @@
 # docker-petitpotam
-Dockerfile for PetitPotam
+Dockerfile for the PetitPotam attack: https://github.com/topotam/PetitPotam
